@@ -1,0 +1,36 @@
+.Calculator{
+    display: flex;
+    flex-direction: column;
+}
+
+.Result {
+    text-align: center;
+}
+
+.NumberInput{
+
+}
+
+.pad {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.OperButton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.Info {
+    text-align: center;
+}
+
+.ButtonGroup{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
